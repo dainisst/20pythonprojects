@@ -1,0 +1,1 @@
+flow_div = soup.find_all('div', class_ = 'imports-exports-info accordion-target-child')
